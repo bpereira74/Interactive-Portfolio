@@ -94,7 +94,7 @@ body{
 
 
 #Skill-HTML {
-    width: 90%;
+    width: 75%;
     border-radius:20px;
     animation: Animate-HTML 4s;
     -webkit-animation: Animate-HTML 4s;
@@ -134,7 +134,7 @@ to {
     -moz-animation: Animate-CSS 5s;
     -o-animation: Animate-CSS 5s;
     border-radius:20px;
-    width: 70%;
+    width: 60%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -169,7 +169,7 @@ to {
     -webkit-animation: Animate-Python 5s;
     -moz-animation: Animate-Python 5s;
     -o-animation: Animate-Python 5s;
-    width: 80%;
+    width: 50%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -204,7 +204,7 @@ to {
     -moz-animation: Animate-JS 4s;
     -o-animation: Animate-JS 4s;
     border-radius:20px;
-    width: 65%;
+    width: 50%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -241,7 +241,7 @@ to {
     -moz-animation: Animate-C 4s;
     -o-animation: Animate-C 4s;
     border-radius:20px;
-    width: 80%;
+    width: 60%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -276,7 +276,7 @@ to {
     -moz-animation: Animate-Cplus 4s;
     -o-animation: Animate-Cplus 4s;
     border-radius:20px;
-    width: 85%;
+    width: 0%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -311,7 +311,7 @@ to {
     -moz-animation: Animate-SQL 4s;
     -o-animation: Animate-SQL 4s;
     border-radius:20px;
-    width: 80%;
+    width: 75%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;

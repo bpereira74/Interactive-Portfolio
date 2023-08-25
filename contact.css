@@ -56,10 +56,10 @@ body{
 
   .Profilepic{
     border-radius: 100%;
-    width: 300px;
+    width: 240px;
     height: 300px;
     border: 10px solid;
-    border-color: #6c63ff;
+    border-color: #e8b2f5;
     box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.897);;
 }
 
@@ -106,7 +106,7 @@ body{
   }
 
   .Resume{
-      background-color: #6c63ff;
+      background-color: #a21ec4;
   }
   .Resume:hover{
       color: black;
@@ -123,7 +123,7 @@ body{
     margin-bottom: 20px;
     font-size: 30px;
     color:white;
-    background-color: #6c63ff;
+    background-color: #a21ec4;
     padding: 10px 30px 10px;
     margin-left: 12%;
     margin-right: 12%;
@@ -140,7 +140,7 @@ body{
 
   .sayhello{
      margin-top: 15px;
-     border:1px solid #6c63ff;
+     border:1px solid #a21ec4;
      border-radius: 10px;
      padding: 10px 20px 10px;
   }
@@ -149,7 +149,7 @@ body{
     text-align: none;
     text-decoration: none;
     color:white;
-    background-color: #6c63ff ;
+    background-color: #a21ec4 ;
   }
 
   span.wave {
